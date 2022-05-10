@@ -13,7 +13,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/LeannonLavon/zizifna)
 
 
 #### 注：失效问题
